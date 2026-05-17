@@ -19,6 +19,10 @@ Designed with a premium healthcare-first experience using modern SaaS design pri
 - User Flow Planning
 - AI-Assisted Prototyping (Emergent)
 
+## live preview
+ 
+Preview Link: https://wellness-scan-suite.preview.emergentagent.com
+
 ## 📸 Screenshots
 
 ### Dashboard
